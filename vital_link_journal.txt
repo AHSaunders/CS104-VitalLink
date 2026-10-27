@@ -1,5 +1,4 @@
 Patient: Bilbo Baggins
-
 DOB: 2890-09-22
 MRN: 123456
 Allergies: None
