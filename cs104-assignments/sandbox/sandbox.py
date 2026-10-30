@@ -1,14 +1,7 @@
-name = "Aundre"
-print (name) # This is how to write a variable in python
-
-data_types = ("string, int, float and boolean")
-
-int = 50 + 50
-print (int) # This is a intiger data type.
-
-float = 99.99
-print (float) # A float allows decimal.
-
-good_job = True 
-print (good_job) # Boolean is true or false.
-
+name = "Aundre" # String variable
+title = "The Last Airbender" # String variable
+animal_companions = 2 # Integer variable
+age = 12 + 100 # Integer variable
+height = 165.5 # Float variable
+is_bender = True # Boolean variable
+print (name, title, animal_companions, age, height, is_bender) 
